@@ -1,0 +1,8 @@
+body {
+    padding-top: 60px;
+}
+
+:target {
+    padding-top: 60px;
+    margin-top: -60px;
+}
