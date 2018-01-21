@@ -1,0 +1,25 @@
+{
+  "name": "tylerlemke.me",
+  "version": "1.0.0",
+  "description": "My personal site, currently just running bootstrap with integration test by cypress.io",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlemke11/tylerlemke.me.git"
+  },
+  "keywords": [
+    "tylerlemke"
+  ],
+  "author": "Tyler Lemke",
+  "license": "SEE LICENSE IN LICENSE.MD",
+  "bugs": {
+    "url": "https://github.com/tlemke11/tylerlemke.me/issues"
+  },
+  "homepage": "https://github.com/tlemke11/tylerlemke.me#readme",
+  "devDependencies": {
+    "cypress": "^1.4.1"
+  }
+}
